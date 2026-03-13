@@ -1,0 +1,13 @@
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+email-validator
+supabase
+httpx
+requests
+langgraph
+langchain
+langchain-openai
+openai
+python-multipart
