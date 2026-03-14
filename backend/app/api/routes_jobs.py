@@ -25,7 +25,7 @@ from app.utils.debug_log import debug_log
 
 router = APIRouter()
 UUID_PATTERN = r"^[0-9a-fA-F-]{36}$"
-FILE_INGEST_LIMIT = 5
+FILE_INGEST_LIMIT = 20
 logger = logging.getLogger(__name__)
 
 
